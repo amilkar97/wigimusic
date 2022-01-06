@@ -36,8 +36,9 @@ A continuacion se muestra una tabla con los hitos alcanzados:
 :-------------------------:|:-------------------------:
 ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641479080.png)  |  ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641477918.png)
 ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641493095.png)  |  ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641477926.png)
-![](https://wigimusic.s3.amazonaws.com/Screenshot_1641477937.png)  |  
+![](https://wigimusic.s3.amazonaws.com/Screenshot_1641477937.png)  |  ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641493369.png)
 
+#Tambien dejo un video para apreciarlo mejor todo: https://wigimusic.s3.amazonaws.com/wigimusic.mp4
 
 # Capturas de lo desarrollado Web
 
