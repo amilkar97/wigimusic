@@ -34,15 +34,13 @@ A continuacion se muestra una tabla con los hitos alcanzados:
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://wigimusic.s3.amazonaws.com/Screenshot_1641479080.png)  |  ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641479080.png)
+![](https://wigimusic.s3.amazonaws.com/Screenshot_1641479080.png)  |  ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641477918.png)
+![](https://wigimusic.s3.amazonaws.com/Screenshot_1641493095.png)  |  ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641477926.png)
 
- <img width="200" alt="portfolio_view" src="https://wigimusic.s3.amazonaws.com/Screenshot_1641479080.png">
- <img width="200" alt="portfolio_view" src="https://wigimusic.s3.amazonaws.com/Screenshot_1641477918.png">
- <img width="200" alt="portfolio_view" src="https://wigimusic.s3.amazonaws.com/Screenshot_1641477926.png">
 
 # Capturas de lo desarrollado Web
 
- <img width="200" alt="portfolio_view" src="https://wigimusic.s3.amazonaws.com/web.png">
+ <img width="600" alt="portfolio_view" src="https://wigimusic.s3.amazonaws.com/web.png">
 No tuve tiempo para adaptarlo a web por lo tanto les dejo el link de una web propia que desarrolle hace unos meses atras con flutter: http://rootdev.s3-website-us-east-1.amazonaws.com/
 
 
