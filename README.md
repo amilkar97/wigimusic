@@ -31,14 +31,17 @@ A continuacion se muestra una tabla con los hitos alcanzados:
 
 
 # Capturas de lo desarrollado Movil
+#Tambien dejo un video para apreciarlo mejor todo: https://wigimusic.s3.amazonaws.com/wigimusic.mp4
 
- Solarized dark             |  Solarized Ocean
+![Webp net-resizeimage](https://user-images.githubusercontent.com/46451218/148432097-b4f20513-a16f-4a16-8e53-90ded6847ae3.png)
+
+
+ Capturas             |  Capturas
 :-------------------------:|:-------------------------:
 ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641479080.png)  |  ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641477918.png)
 ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641493095.png)  |  ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641477926.png)
 ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641477937.png)  |  ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641493369.png)
 
-#Tambien dejo un video para apreciarlo mejor todo: https://wigimusic.s3.amazonaws.com/wigimusic.mp4
 
 # Capturas de lo desarrollado Web
 
