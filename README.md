@@ -29,18 +29,17 @@ A continuacion se muestra una tabla con los hitos alcanzados:
 - [ ] Version entregada en IOS
 - [ ] Implementar reproductor en streaming
 
+
+# Capturas de lo desarrollado Movil
+
  <img width="200" alt="portfolio_view" src="https://wigimusic.s3.amazonaws.com/Screenshot_1641479080.png">
-# Capturas de lo desarrollado
-![Login](https://wigimusic.s3.amazonaws.com/Screenshot_1641479080.png){:height="100px"}
+ <img width="200" alt="portfolio_view" src="https://wigimusic.s3.amazonaws.com/Screenshot_1641477918.png">
+ <img width="200" alt="portfolio_view" src="https://wigimusic.s3.amazonaws.com/Screenshot_1641477926.png">
+
+# Capturas de lo desarrollado Web
+
+ <img width="200" alt="portfolio_view" src="https://wigimusic.s3.amazonaws.com/web.png">
+No tuve tiempo para adaptarlo a web por lo tanto les dejo el link de una web propia que desarrolle hace unos meses atras con flutter: http://rootdev.s3-website-us-east-1.amazonaws.com/
 
 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook height="100")
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# wigimusic
