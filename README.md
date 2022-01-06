@@ -32,7 +32,7 @@ A continuacion se muestra una tabla con los hitos alcanzados:
 
 # Capturas de lo desarrollado Movil
 
-
+ Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641479080.png)  |  ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641477918.png)
 ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641493095.png)  |  ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641477926.png)
