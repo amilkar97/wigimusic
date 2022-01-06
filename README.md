@@ -22,7 +22,6 @@ A continuacion se muestra un checklist con los hitos desarollados:
 - [x] Listar los ultimos lanzamientos por pais
 - [x] Realizar busquedas dentro de la spotify
 - [x] Codigo alojado en Gitbhub
-- [x] Version entregada en Android
 - [x] Uso del patron BLOC
 - [x] Flutter web
 - [x] Notificaciones push
