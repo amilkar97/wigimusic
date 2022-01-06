@@ -26,7 +26,7 @@ A continuacion se muestra una tabla con los hitos alcanzados:
 - [ ] Flutter web
 - [ ] Notificaciones push
 - [ ] Subirlo a GooglePlay
-- [:tada:] https://github.com/octo-org/octo-repo/issues/740
+- [:tada:] Subirlo a GooglePlay
 - [x] Version entregada en IOS
 - [x] Implementar reproductor en streaming
 - [ ] Add delight to the experience when all tasks are complete :tada:
