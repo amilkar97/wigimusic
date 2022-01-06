@@ -11,7 +11,7 @@ A continuacion se muestra un checklist con los hitos desarollados:
 - [x] Login con usuario y contraseña
 - [x] Consumir datos de usuario desde https://apim3w.com/api/index.php/v1/soap/LoginUsuario.json
 - [x] Mostrar y guardar los datos en sesion activa
-- [x] Mantener la  y datos del usuario hasta cerrar sesion
+- [x] Mantener la sesion y datos del usuario hasta cerrar sesion
 - [x] Utilizar la api de Spotify con https://developer.spotify.com/documentation/web-api/reference/#/
 - [x] Alternar entre 2 paises Colombia y Australia
 - [x] Listar categorias por pais
