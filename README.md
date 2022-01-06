@@ -31,7 +31,7 @@ A continuacion se muestra una tabla con los hitos alcanzados:
 
 
 # Capturas de lo desarrollado
-![Login](https://wigimusic.s3.amazonaws.com/Screenshot_1641479080.png | height=100)
+![Login](https://wigimusic.s3.amazonaws.com/Screenshot_1641479080.png){:height="700px" width="400px"}
 
 
 
