@@ -27,8 +27,12 @@ A continuacion se muestra una tabla con los hitos desarollados:
 - [x] Flutter web
 - [x] Notificaciones push
 - [x] Subirlo a GooglePlay
-- [ ] Version entregada en IOS
+- [x] Version entregada en Android
+- [x] Version entregada en IOS
 - [ ] Implementar reproductor en streaming
+
+####Nota: No pude subir el app a AppStore(no tengo cuenta de desarrollador pagada), sin embargo ya he subido apps como miembro de un Team de una organizacion
+
 
 #### Actualmente la app esta en revision por parte de google, demorara en aprobacion por cuestiones del COVID, dejo link una vez la aprueben: https://play.google.com/store/apps/details?id=com.wigi.wigi, ademas dejo una captura para sustentacion de la misma: https://wigimusic.s3.amazonaws.com/Sin+t%C3%ADtulo.png
 
@@ -37,12 +41,16 @@ A continuacion se muestra una tabla con los hitos desarollados:
 ## Tambien dejo un video para apreciarlo mejor todo: https://wigimusic.s3.amazonaws.com/wigimusic.mp4
 
 
- Capturas             |  Capturas
+ Capturas             |  ANDROID
 :-------------------------:|:-------------------------:
 ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641479080.png)  |  ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641477918.png)
 ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641493095.png)  |  ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641477926.png)
 ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641477937.png)  |  ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641493369.png)
 
+
+ Capturas             |  IOS
+:-------------------------:|:-------------------------:
+![](https://wigimusic.s3.amazonaws.com/Simulator+Screen+Shot+-+iPhone+13+Pro+-+2022-01-06+at+13.18.40.png)  |  ![](https://wigimusic.s3.amazonaws.com/Simulator+Screen+Shot+-+iPhone+13+Pro+-+2022-01-06+at+13.19.34.png)
 
 # Capturas del entorno Web
 
