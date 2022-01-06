@@ -29,7 +29,7 @@ A continuacion se muestra una tabla con los hitos alcanzados:
 - [ ] Version entregada en IOS
 - [ ] Implementar reproductor en streaming
 
-
+ <img width="200" alt="portfolio_view" src="https://wigimusic.s3.amazonaws.com/Screenshot_1641479080.png">
 # Capturas de lo desarrollado
 ![Login](https://wigimusic.s3.amazonaws.com/Screenshot_1641479080.png){:height="100px"}
 
