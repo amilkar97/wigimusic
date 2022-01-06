@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">WigiMusicTest</string>
+    <string name="facebook_app_id">2302181769916625</string>
+    <string name="fb_login_protocol_scheme">fb2302181769916625</string>
+    <string name="facebook_client_token">af117d1780c7dbfd0ffc327de2eca4ca</string>
+</resources>

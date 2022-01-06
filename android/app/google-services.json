@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "577843489989",
+    "project_id": "wigi-17ac0",
+    "storage_bucket": "wigi-17ac0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577843489989:android:e0d5cd6006a7314119d4ac",
+        "android_client_info": {
+          "package_name": "com.wigi.wigi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577843489989-2kdnb0oi1jv5ept543npf5jdk2r2up0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wigi.wigi",
+            "certificate_hash": "f258baaee0187e5431a169857279187634eccfb3"
+          }
+        },
+        {
+          "client_id": "577843489989-huccae94s6gl35mgf3bnfvslicf4op1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wigi.wigi",
+            "certificate_hash": "e1aa753310e1a6ea20fd0474b1ed9e023a3f13e7"
+          }
+        },
+        {
+          "client_id": "577843489989-c3iptbrj7s1f5q42nsq64ffjj6qnabeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlrWDqTRgK2UQg4rdH9Nc9jjJyFiILWME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577843489989-c3iptbrj7s1f5q42nsq64ffjj6qnabeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
