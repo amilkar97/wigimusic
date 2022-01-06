@@ -33,7 +33,7 @@ A continuacion se muestra una tabla con los hitos desarollados:
 #### Actualmente la app esta en revision por parte de google, demorara en aprobacion por cuestiones del COVID, dejo link una vez la aprueben: https://play.google.com/store/apps/details?id=com.wigi.wigi, ademas dejo una captura para sustentacion de la misma: https://wigimusic.s3.amazonaws.com/Sin+t%C3%ADtulo.png
 
 
-# Capturas de lo desarrollado Movil
+# Capturas del entorno Movil
 ## Tambien dejo un video para apreciarlo mejor todo: https://wigimusic.s3.amazonaws.com/wigimusic.mp4
 
 
@@ -44,7 +44,7 @@ A continuacion se muestra una tabla con los hitos desarollados:
 ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641477937.png)  |  ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641493369.png)
 
 
-# Capturas de lo desarrollado Web
+# Capturas del entorno Web
 
  <img width="600" alt="portfolio_view" src="https://wigimusic.s3.amazonaws.com/web.png">
 No tuve tiempo para adaptarlo a web por lo tanto les dejo el link de una web propia que desarrolle hace unos meses atras con flutter: http://rootdev.s3-website-us-east-1.amazonaws.com/
