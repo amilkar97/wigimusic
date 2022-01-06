@@ -2,7 +2,7 @@
 
 Esta es el test de Wigilabs creado por Amilkar Saavedra.
 
-### Getting Started
+#Getting Started
 
 A continuacion se muestra una tabla con los hitos desarollados:
 
@@ -29,7 +29,7 @@ A continuacion se muestra una tabla con los hitos desarollados:
 - [ ] Version entregada en IOS
 - [ ] Implementar reproductor en streaming
 
-#Actualmente la app esta en revision por parte de google,demorara en aprobacion por cuestiones del COVID, dejo link una vez la aprueben: https://play.google.com/store/apps/details?id=com.wigi.wigi, ademas dejo una captura para sustentacion de la misma: https://wigimusic.s3.amazonaws.com/Sin+t%C3%ADtulo.png
+## Actualmente la app esta en revision por parte de google,demorara en aprobacion por cuestiones del COVID, dejo link una vez la aprueben: https://play.google.com/store/apps/details?id=com.wigi.wigi, ademas dejo una captura para sustentacion de la misma: https://wigimusic.s3.amazonaws.com/Sin+t%C3%ADtulo.png
 
 
 # Capturas de lo desarrollado Movil
@@ -49,16 +49,16 @@ A continuacion se muestra una tabla con los hitos desarollados:
 No tuve tiempo para adaptarlo a web por lo tanto les dejo el link de una web propia que desarrolle hace unos meses atras con flutter: http://rootdev.s3-website-us-east-1.amazonaws.com/
 
 
-#Patrones utilizados
+# Patrones utilizados
 - [x] Bloc
 - [x] Singleton
 - [x] Decorator
 - [x] Composite
 
-#Porque Flutter?
+# Porque Flutter?
 Elijo flutter debibo a la alta abstraccion para desarrollar aplicaciones en diferentes entornos principalmente Android/IOS, ademas de la rapidez y la curva de aprendizaje. En mi opinion Flutter es mejor que React Native, y muchas empresas estan migrando por los altos beneficios que se tienen a desarrollar aplicaciones con flutter.
 
-###Contacto: amilkar.saavedra97@gmail.com
+# Contacto: amilkar.saavedra97@gmail.com
 
 
 
