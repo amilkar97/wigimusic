@@ -4,7 +4,7 @@ Esta es el test de Wigilabs creado por Amilkar Saavedra.
 
 # Getting Started
 
-A continuacion se muestra una tabla con los hitos desarollados:
+A continuacion se muestra un checklist con los hitos desarollados:
 
 - [x] Login con Firebase
 - [x] Login con Facebook
