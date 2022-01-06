@@ -6,30 +6,28 @@ Esta es el test de Wigilabs creado por Amilkar Saavedra.
 
 A continuacion se muestra una tabla con los hitos alcanzados:
 
-- [ ] Login con Firebase
-- [ ] Login con Facebook
-- [ ] Login con usuario y contraseña
-- [ ] Consumir datos de usuario desde https://apim3w.com/api/index.php/v1/soap/LoginUsuario.json
-- [ ] Mostrar y guardar los datos en sesion activa
-- [ ] Mantener la  y datos del usuario hasta cerrar sesion
-- [ ] Alternar entre 2 paises Colombia y Australia
-- [ ] Listar categorias por pais
-- [ ] Listar las playlists dentro de una categoria
-- [ ] Listar las canciones de una playlist
-- [ ] Poder ir al detalle de un artista
-- [ ] Listar las canciones top de un artista
-- [ ] Listar los ultimos lanzamientos por pais
-- [ ] Realizar busquedas dentro de la spotify
+- [:tada:] Login con Firebase
+- [:tada:] Login con Facebook
+- [:tada:] Login con usuario y contraseña
+- [:tada:] Consumir datos de usuario desde https://apim3w.com/api/index.php/v1/soap/LoginUsuario.json
+- [:tada:] Mostrar y guardar los datos en sesion activa
+- [:tada:] Mantener la  y datos del usuario hasta cerrar sesion
+- [:tada:] Alternar entre 2 paises Colombia y Australia
+- [:tada:] Listar categorias por pais
+- [:tada:] Listar las playlists dentro de una categoria
+- [:tada:] Listar las canciones de una playlist
+- [:tada:] Poder ir al detalle de un artista
+- [:tada:] Listar las canciones top de un artista
+- [:tada:] Listar los ultimos lanzamientos por pais
+- [:tada:] Realizar busquedas dentro de la spotify
 - [ ] Codigo alojado en Gitbhub
 - [ ] Version entregada en Android
 - [ ] Uso de patro BLOC
 - [ ] Flutter web
 - [ ] Notificaciones push
-- [ ] Subirlo a GooglePlay
 - [:tada:] Subirlo a GooglePlay
-- [x] Version entregada en IOS
-- [x] Implementar reproductor en streaming
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [ ] Version entregada en IOS
+- [ ] Implementar reproductor en streaming
 
 
 # Capturas de lo desarrollado
