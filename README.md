@@ -25,13 +25,13 @@ A continuacion se muestra una tabla con los hitos alcanzados:
 - [x] Uso de patro BLOC
 - [x] Flutter web
 - [x] Notificaciones push
-- [:check:] Subirlo a GooglePlay
+- [x] Subirlo a GooglePlay
 - [ ] Version entregada en IOS
 - [ ] Implementar reproductor en streaming
 
 
 # Capturas de lo desarrollado
-
+![Login](https://wigimusic.s3.amazonaws.com/Screenshot_1641479080.png)
 
 
 
