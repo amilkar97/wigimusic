@@ -23,7 +23,7 @@ A continuacion se muestra una tabla con los hitos desarollados:
 - [x] Realizar busquedas dentro de la spotify
 - [x] Codigo alojado en Gitbhub
 - [x] Version entregada en Android
-- [x] Uso de patro BLOC
+- [x] Uso del patron BLOC
 - [x] Flutter web
 - [x] Notificaciones push
 - [x] Subirlo a GooglePlay
@@ -47,7 +47,7 @@ A continuacion se muestra una tabla con los hitos desarollados:
 ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641493095.png)  |  ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641477926.png)
 ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641477937.png)  |  ![](https://wigimusic.s3.amazonaws.com/Screenshot_1641493369.png)
 
-
+<br>
  Capturas             |  IOS
 :-------------------------:|:-------------------------:
 ![](https://wigimusic.s3.amazonaws.com/Simulator+Screen+Shot+-+iPhone+13+Pro+-+2022-01-06+at+13.18.40.png)  |  ![](https://wigimusic.s3.amazonaws.com/Simulator+Screen+Shot+-+iPhone+13+Pro+-+2022-01-06+at+13.19.34.png)
