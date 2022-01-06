@@ -33,8 +33,6 @@ A continuacion se muestra una tabla con los hitos alcanzados:
 # Capturas de lo desarrollado Movil
 #Tambien dejo un video para apreciarlo mejor todo: https://wigimusic.s3.amazonaws.com/wigimusic.mp4
 
-![Webp net-resizeimage](https://user-images.githubusercontent.com/46451218/148432097-b4f20513-a16f-4a16-8e53-90ded6847ae3.png)
-
 
  Capturas             |  Capturas
 :-------------------------:|:-------------------------:
@@ -47,6 +45,18 @@ A continuacion se muestra una tabla con los hitos alcanzados:
 
  <img width="600" alt="portfolio_view" src="https://wigimusic.s3.amazonaws.com/web.png">
 No tuve tiempo para adaptarlo a web por lo tanto les dejo el link de una web propia que desarrolle hace unos meses atras con flutter: http://rootdev.s3-website-us-east-1.amazonaws.com/
+
+
+#Patrones utilizados
+- [ ] Bloc
+- [ ] Singleton
+- [ ] Decorator
+- [ ] Composite
+
+#Porque Flutter?
+Elijo flutter debibo a la alta abstraccion para desarrollar aplicaciones en diferentes entornos principalmente Android/IOS, ademas de la rapidez y la curva de aprendizaje. En mi opinion Flutter es mejor que React Native, y muchas empresas estan migrando por los altos beneficios que se tienen a desarrollar aplicaciones con flutter.
+
+###Contacto: amilkar.saavedra97@gmail.com
 
 
 
