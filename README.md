@@ -12,6 +12,7 @@ A continuacion se muestra una tabla con los hitos desarollados:
 - [x] Consumir datos de usuario desde https://apim3w.com/api/index.php/v1/soap/LoginUsuario.json
 - [x] Mostrar y guardar los datos en sesion activa
 - [x] Mantener la  y datos del usuario hasta cerrar sesion
+- [x] Utilizar la api de Spotify con https://developer.spotify.com/documentation/web-api/reference/#/
 - [x] Alternar entre 2 paises Colombia y Australia
 - [x] Listar categorias por pais
 - [x] Listar las playlists dentro de una categoria
@@ -29,7 +30,7 @@ A continuacion se muestra una tabla con los hitos desarollados:
 - [ ] Version entregada en IOS
 - [ ] Implementar reproductor en streaming
 
-## Actualmente la app esta en revision por parte de google,demorara en aprobacion por cuestiones del COVID, dejo link una vez la aprueben: https://play.google.com/store/apps/details?id=com.wigi.wigi, ademas dejo una captura para sustentacion de la misma: https://wigimusic.s3.amazonaws.com/Sin+t%C3%ADtulo.png
+#### Actualmente la app esta en revision por parte de google,demorara en aprobacion por cuestiones del COVID, dejo link una vez la aprueben: https://play.google.com/store/apps/details?id=com.wigi.wigi, ademas dejo una captura para sustentacion de la misma: https://wigimusic.s3.amazonaws.com/Sin+t%C3%ADtulo.png
 
 
 # Capturas de lo desarrollado Movil
