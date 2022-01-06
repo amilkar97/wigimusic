@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>577843489989-eueou4g5h7g9bv937r3a7vaq5g7m6f90.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.577843489989-eueou4g5h7g9bv937r3a7vaq5g7m6f90</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>577843489989-2kdnb0oi1jv5ept543npf5jdk2r2up0d.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBwK0TXgnR-gWWlOi6N_JiF5ztM4ctkHng</string>
+	<key>GCM_SENDER_ID</key>
+	<string>577843489989</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wigi.wigi</string>
+	<key>PROJECT_ID</key>
+	<string>wigi-17ac0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wigi-17ac0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:577843489989:ios:8d2aa038bee347f719d4ac</string>
+</dict>
+</plist>
