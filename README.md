@@ -2,7 +2,7 @@
 
 Esta es el test de Wigilabs creado por Amilkar Saavedra.
 
-#Getting Started
+# Getting Started
 
 A continuacion se muestra una tabla con los hitos desarollados:
 
