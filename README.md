@@ -33,7 +33,7 @@ A continuacion se muestra un checklist con los hitos desarollados:
 #### Nota: No pude subir el app a AppStore(no tengo cuenta de desarrollador pagada), sin embargo ya he subido apps como miembro de un Team de una organizacion
 
 
-#### App en playstore: https://play.google.com/store/apps/details?id=com.wigi.wigi, ademas dejo una captura para sustentacion de la misma: https://wigimusic.s3.amazonaws.com/Sin+t%C3%ADtulo.png
+#### App en playstore: https://play.google.com/store/apps/details?id=com.wigi.wigi
 
 
 # Capturas del entorno Movil
