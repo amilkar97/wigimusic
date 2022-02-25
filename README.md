@@ -30,11 +30,6 @@ A continuacion se muestra un checklist con los hitos desarollados:
 - [x] Version entregada en IOS
 - [ ] Implementar reproductor en streaming
 
-#### Nota: No pude subir el app a AppStore(no tengo cuenta de desarrollador pagada), sin embargo ya he subido apps como miembro de un Team de una organizacion
-
-
-#### App en playstore: https://play.google.com/store/apps/details?id=com.wigi.wigi
-
 
 # Capturas del entorno Movil
 ## Tambien dejo un video para apreciarlo mejor todo: https://wigimusic.s3.amazonaws.com/wigimusic.mp4
