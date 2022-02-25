@@ -25,9 +25,9 @@ A continuacion se muestra un checklist con las caracteristicas desarrolladas:
 - [x] Uso del patron BLOC
 - [x] Flutter web
 - [x] Notificaciones push
-- [x] Subirlo a GooglePlay
-- [x] Version entregada en Android
-- [x] Version entregada en IOS
+- [x] Desplegada a GooglePlay
+- [x] Entorno en Android
+- [x] Entorono en IOS
 
 
 # Capturas del entorno Movil
