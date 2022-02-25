@@ -4,7 +4,7 @@ Esta es una clonacion de Spotify desarrollada por Amilkar Saavedra
 
 # Getting Started
 
-A continuacion se muestra un checklist con los hitos desarollados:
+A continuacion se muestra un checklist con las caracteristicas desarrolladas:
 
 - [x] Login con Firebase
 - [x] Login con Facebook
@@ -28,7 +28,6 @@ A continuacion se muestra un checklist con los hitos desarollados:
 - [x] Subirlo a GooglePlay
 - [x] Version entregada en Android
 - [x] Version entregada en IOS
-- [ ] Implementar reproductor en streaming
 
 
 # Capturas del entorno Movil
