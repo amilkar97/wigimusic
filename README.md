@@ -1,6 +1,6 @@
 # WigiMusic
 
-Esta es el test de Wigilabs creado por Amilkar Saavedra.
+Esta es una clonacion de Spotify desarrollada por Amilkar Saavedra
 
 # Getting Started
 
