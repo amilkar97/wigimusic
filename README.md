@@ -53,7 +53,7 @@ A continuacion se muestra un checklist con las caracteristicas desarrolladas:
 # Capturas del entorno Web
 
  <img width="600" alt="portfolio_view" src="https://wigimusic.s3.amazonaws.com/web.png">
-No tuve tiempo para adaptarlo a web por lo tanto les dejo el link de una web propia que desarrolle hace unos meses atras con flutter: http://rootdev.s3-website-us-east-1.amazonaws.com/
+Web propia desarrollada con flutter: http://rootdev.s3-website-us-east-1.amazonaws.com/
 
 
 # Patrones utilizados
