@@ -51,9 +51,8 @@ A continuacion se muestra un checklist con las caracteristicas desarrolladas:
 ![](https://wigimusic.s3.amazonaws.com/Simulator+Screen+Shot+-+iPhone+13+Pro+-+2022-01-06+at+13.18.40.png)  |  ![](https://wigimusic.s3.amazonaws.com/Simulator+Screen+Shot+-+iPhone+13+Pro+-+2022-01-06+at+13.19.34.png)
 
 # Capturas del entorno Web
-
  <img width="600" alt="portfolio_view" src="https://wigimusic.s3.amazonaws.com/web.png">
-Web propia desarrollada con flutter: http://rootdev.s3-website-us-east-1.amazonaws.com/
+
 
 
 # Patrones utilizados
